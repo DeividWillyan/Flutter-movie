@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot](movie1.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
