@@ -1,7 +1,5 @@
 # Movie APP
 
-A new Flutter project.
-
 ![Screenshot](movie1.jpeg)
 ![Screenshot](movie2.jpeg)
 
